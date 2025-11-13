@@ -1,7 +1,0 @@
-# PROJECT 1: Data analysis of a telecommunications company.
-## You have been hired to work as a data analyst at a telecommunications company.
-## The marketing department wants to know the likely reasons for plan cancellations and how to reduce the churn rate.
-
-# First, two famous libraries are chosen for analysis of the data obtained.
-import pandas as pd
-import numpy as np
